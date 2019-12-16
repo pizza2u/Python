@@ -1,12 +1,8 @@
-# def multip(a):
-  #  return a*10
+# Código de função
+def multip(a):
+    return a*10 # > terminou a função
+  
 
-#outro = multip("a")
-#print (outro)
+outro = multip("a")
+print (outro)
 
-def smallest_number(*args):
-    print min(args)
-    return min(args)
-
-biggest_number(-10, -5, 5, 10)
-smallest_number(-10, -5, 5, 10)

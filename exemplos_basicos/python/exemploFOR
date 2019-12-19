@@ -1,0 +1,9 @@
+lista = [] 
+ 
+num = int(input("Quantidade de elementos na lista: ")) 
+  
+for i in range(1,num +1 ): 
+    oi = int(input("Insira o número: ")) 
+    lista.append(oi) 
+      
+print("O menor número é:", min(lista)) 

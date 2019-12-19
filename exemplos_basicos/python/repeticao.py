@@ -1,3 +1,4 @@
+# Código while
 numero =21
 tentativa = 3
 
@@ -15,7 +16,7 @@ while(tentativa >= rodada):
            
         if chute < numero:
             print(" o chute é menor")
-            
+
     rodada = rodada +1
            
 

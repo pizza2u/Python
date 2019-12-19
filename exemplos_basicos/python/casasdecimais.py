@@ -3,5 +3,5 @@ n = float(input('number :  '))
 
 print("Número normal: ", n )
 print('Número com casas decimais: {:.4f} ' .format(n))   #:. xf -> casas decimais   ;   .format(algo) -> para funções com  numeros
-
+print('Número com casas decimais: {:08.4f} ' .format(n))
 

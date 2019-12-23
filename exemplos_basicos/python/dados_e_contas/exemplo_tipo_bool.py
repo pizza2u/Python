@@ -20,3 +20,14 @@ print(n.isalnum()) #isalnum()retorna True para alfabeticos e numericos, retorna 
 #---------------------------------------------- Forma is upper
 n = input("Digite algo: ")
 print(n.isupper()) #isupper é uma função para retornar True casos as palavras ou letras escritas estiverem em maiusculo e False caso alguma esteja em minusculo.
+
+#-------------------------------------------------- Forma lower
+n = input("Digite algo: ")
+print(n.islower()) #demonstra dizer para True caso o que foi digitado seja minusculo e False caso seja maisculo ou possua alguma letras maiuscula
+#-------------------------------------------- Forma space
+n = input("Digite algo: ")
+print(n.isspace()) #demonstra dizer para True caso o que foi digitado seja apenas espaço e False caso tenha algo escrito
+
+#-------------------------------------------- Forma capitalizada
+n = input("Digite algo: ")
+print(n.istitle()) #demonstra True caso tenha letras maiusculas e minusculas , e False para caso tenha somente um tipo na palavra(MA e mi)

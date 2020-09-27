@@ -103,6 +103,7 @@ sua_idade=int(input("Qual a sua idade?\n")) #---- Acrescentar o int antes do inp
 jovem = 25> sua_idade > 17
 print(jovem) # Retorna True se estiver entre essas idades
 
+
 #-------------------------------------------------------------------------------------------------------------------------------------------------
 # TÓPICO 3: CONVERSÃO DE TIPOS
 # Pra que isso? Converter tipos? eu hein!
@@ -128,6 +129,17 @@ print(outraIDADE *3)  # Dessa vez obtivemos uma operação matemática, e no meu
 #texto - str()
 # lista - list()
 # tupla - tuple()               A LÓGICA É  A MESMA
+#------------
+#BÔNUS:
+#E isso também serve para string, como foi mostrado no EXEMPLO BÔNUS 1 do capítulo anterior,vamos implementar como a forma usando o input
+# Exemplo Bônus
+# Exemplo bônus:
+first_n= str(input("Qual o seu primeiro nome?\n"))
+last_n=str(input("Qual o seu segundo nome?\n"))
+full= first_n+ " " + last_n +"\t"   #\t é usado para acrescentar tabulação ao texto.
+print(full) # Que vai printar o primeiro nome e o segundo
+print(full.title()) # Para printar os nomes com as letras iniciais maiúsculas, como visto no CAP 1
+
 
 #______________________________________
 # Compatibilidade dos tipos

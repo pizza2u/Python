@@ -1,6 +1,7 @@
-#COMANDOS BÁSICOS
+#COMANDOS BÁSICOS - CAPÍTULO 1
+#====================================================
 # TÓPICO 1 - EXPRESSÕES E SAÍDA DE DADOS
-#--------------------------------------------------------------------------
+
 # Soma: N + Nx                     N= Número qualquer
 # Subtração: N- Nx                 Nx= Outro número
 # Multiplicação: N * Nx
@@ -10,7 +11,7 @@
 # Resto da divisão: N  % Nx
 # Potenciação N**p               p= potência
 
-#---------------------------------------------------------------------------
+#__________________________________________________
 # APLICAÇÕES
 # Exemplo 1:
 # Converter celsius para fahrenheit
@@ -27,11 +28,11 @@ print(2*3**2-4*3+2) #resultado=8
 # Caso f(5)
 print(2*5**2-4*3+2) #resultado=40
 
-#=========================================
+#-------------------------------------------------------------------------------------------------
 # TÓPICO 2- VARIÁVEIS
 # Variáveis são letras ou nomes que vão receber um objeto.
 
-#---------------------------------------------------------------------------
+#_______________________________________________________
 # APLICAÇÕES
 # Exemplo 1
 # Vamos inserir a variável x que vai receber 5
@@ -50,10 +51,10 @@ print(horas*3600+minutos*60+segundos)
 # Não é possivel começar nome de variável com numeros
 # Sensiveis ao caps lock,ou seja, se eu tiver horas e Horas, vão ser coisas diferentes
 
-#==============================================
+#----------------------------------------------------------------------------------------
 # TÓPICO 3- ENTRADA DE DADOS
 # Função input - passa uma pergunta e o comando retorna a resposta do usuário
-#---------------------------------------------------------------------------
+#____________________________________________________________
 # APLICAÇÕES
 # Exemplo 1:
 seu_nome = input('Qual seu nome bro?!\n') #\n serve para dar espaçamento após a pergunta para inserir o nome

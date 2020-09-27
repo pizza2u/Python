@@ -112,8 +112,8 @@ print(jovem) # Retorna True se estiver entre essas idades
 #E aí a gente tem que fazer manualmente (spoiler foi dado no exemplo 11)
 
 #EXEMPLO 12:
-outra_idade=input("Diga ai boy:\n")
-print(outra_idade * 3) # O resultado dá um chernobyl, caso você tenha testado, vou dar meu exemplo: minha idade é 18, e no resultado do print vai aparecer 181818
+outra_idade=input("Diga ai boy sua idade:\n")
+print(outra_idade * 3 + ", opa deu errado ein") # O resultado dá um chernobyl, caso você tenha testado, vou dar meu exemplo: minha idade é 18, e no resultado do print vai aparecer 181818
 #A variável outra_idade vai receber o valor digitado mas em forma de string.E então o texto é triplicado.
 # Por essa nem o futuro esperava
 # Old que você esperava que fosse fazer uma operação matématica né
@@ -121,7 +121,8 @@ print(outra_idade * 3) # O resultado dá um chernobyl, caso você tenha testado,
 # No caso, temos que fazer como o EXEMPLO 7
 #EXEMPLO 13:
 outraIDADE=int(input(" Bora diga de novo:\n "))
-print(outraIDADE *3)  # Dessa vez obtivemos uma operação matemática, e no meu caso o resultado deu 54.
+print(outraIDADE *3)
+print("Agora foi certo,sua idade vezes 3")# Dessa vez obtivemos uma operação matemática, e no meu caso o resultado deu 54.
 # Repare que a função que a gente usou para converter a saída da função input é inteiro (int)
 # inteiro - int()
 #real - float()
@@ -139,7 +140,15 @@ last_n=str(input("Qual o seu segundo nome?\n"))
 full= first_n+ " " + last_n +"\t"   #\t é usado para acrescentar tabulação ao texto.
 print(full) # Que vai printar o primeiro nome e o segundo
 print(full.title()) # Para printar os nomes com as letras iniciais maiúsculas, como visto no CAP 1
+# Também podemos implementar uma mensagem antes de apresentar o nome
+print("Olá," + full.title())
 
+#¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+# + Algumas coisinhas
+# Removendo espaços em branco
+# Para não ter espaços em branco do lado direito da string, use o método rstrip()
+# Para não ter do lado esquerdo use lstrip()
+# Para não ter em nenhum dos lados use apenas strip()
 
 #______________________________________
 # Compatibilidade dos tipos

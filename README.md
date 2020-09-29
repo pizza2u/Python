@@ -31,3 +31,5 @@ Python tem uma comunidade ativa e vibrante, espalhada por todo o mundo. E, sendo
 Python é, além disso, uma linguagem de propósito geral. Muitas vezes, é necessário lidar com tarefas laterais: buscar dados em um banco de dados remoto, ler uma página na internet, exibir graficamente os resultados, criar uma planilha, etc. Linguagens de cunho especificamente científico têm um sério problema aí, mas, uma vez que Python é utilizada em praticamente todo tipo de tarefa, encontram-se módulos prontos para realizar essas tarefas que podem ser tornar complicadas. Novamente, é uma preocupação a menos para quem está desenvolvendo aplicações científicas.
 
 Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade entre a comunidade científica. É uma linguagem simples que dá conta do recado e não fica entre o cientista e a resolução do seu problema. Essa frase provavelmente resume todos os motivos necessários para sua utilização.
+
+créditos: http://pyscience-brasil.wikidot.com/python:python-oq-e-pq

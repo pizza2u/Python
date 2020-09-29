@@ -40,4 +40,5 @@ Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade
 créditos: http://pyscience-brasil.wikidot.com/python:python-oq-e-pq
 
 Agora vem comigo, aprender um pouco de python!
+
 ![gif](https://github.com/pizza2u/Python/blob/master/images/tenor.gif)

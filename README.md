@@ -1,5 +1,5 @@
 # Python
-
+## ÍNDICE
 
 #### Algumas coisas sobre python, aproveite, se der.
 #### Alguns conteúdos serão adicionados conforme meus estudos, por isso recomendo não estudar aqui agora, já que uso duas plataformas para estudar, e às vezes vou acrescentando informações em capítulos passados!

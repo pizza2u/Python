@@ -45,7 +45,7 @@ print("k" in nome) # True
 # Preste atenção no serviço, esse operador NÃO é comutativo: (x in y) é diferente de (y in x)
 
 # Agora chegue aprender mais uma funçãozinha
-# Vos apresento a função len() para saber o tamanh de uma string
+# Vos apresento a função len() para saber o tamanho de uma string
 # OIA
 # EXEMPLO 5:
 fulano = "Sherlock"
@@ -162,9 +162,56 @@ cumbuca=isso*2
 print(cumbuca) # Repetiu o vetor isso
 # Aguenta um pouquinho ta acabando
 # Se multiplicar por um número negativo, o vetor resultante vai ser um vetor vazio
+#Além disso, também podemos inserir algo no vetor
+lista = ['um','dois','tres']
+lista.insert(0, 'zero')  # Basta usar o comando insert(posição,o que vai ser inserido)
+print (lista)
+
+#Da mesma forma como podemos excluir
+del lista[2] # Basta usar o comando del e colocar o nome do seu vetor[e dentro o número do elemento que quer eliminar]
+print(lista)
+
+# O método pop() elimina o último item da lista
+popped_lista=lista.pop()
+print(lista) # Printa a lista sem o ultimo elemento
+print(popped_lista) # Mostra o que foi retirado
+
+#As vezes não vamos saber a posição do item, apenas o valor, então usamos a função remove()
+lista.remove('dois')
+print(lista)
+# O método remove() apaga apenas a primeira ocorrência do valor que você especificar. Se houve a possibilidade de o valor aparecer mais de uma vez na lista, será necessãrio usar um laço para determinar se todas as ocorrÊncias desse valor foram removidas. Veremos isso mais adiante
+
+#Organizando uma lista: UMA LISTA DE FORMA PERMANENTE COM O MÉTODO SORT()
+# O método sort() faz com que seja fácil ordenar uma lista, vamos supor que eu queria fazer uma lista de carros, mas quero que seja em ordem alfabética,para simplicar vamos supor os valores com letras minusculas
+carros=['bmw','audi','toyota','subaru','fiat']
+carros.sort()
+print(carros)
+# O método acima altera a ordem da lista de forma permanente, os carros agora estão em ordem alfabética e não podemos mais retornar a ordem original
+# Mas também podemos ordenar essa lista em ordem alfabetica inversa, passando o argumento reverse=True ao método sort()
+carros.sort(reverse=True)
+print(carros)
+#Ordenando uma lista temporariamente com a função sorte(), veja que é diferente da anterior, mas pouca coisa
+# Para preservar a ordem original de uma lista, mas apresentá-la de forma ordenada, podemos usar a função sorted(),que permite exibir sua lista em uma ordem em particular mas não afetar a ordem propriamente dita da lista.
+cars=['bmw','audi','toyota','fiat']
+print("A lista original é: ",cars)
+print("\nA lista em sorted: ",)
+print(sorted(cars))
+print("\nA lista original de novo: ",cars)
+# Ou seja, essa função preserva a ordem original no vetor, diferente da sort()
+# E essa função também aceita o reverse=True
+#!!! NOTA: ordenar uma lista em ordem alfabética é um pouco mais complicado quando todos os valores não utilizam letras minúsculas. Há várias maneiras de interpretar letras maiúsculas quando decidimos por uma sequência de ordenação e especificar a ordem exata pode apresentar um nível de complexidade maior que aquele com que queremos lidas no momento.
+
+#Exibindo uma lista em ordem inversa
+# Vamos usar o exemplo de cars
+cars.reverse()
+print(cars) # Muda a ordem de uma lista DE FORMA PERMANENTE, mas pode ser restaurada ao aplicar o reverse() mais uma vez
+
+# Descobrindo o tamanho de uma lista
+# Da mesma forma como medimos o tamanho de uma string com a função len(), é o mesmo mas no vetor vai contar quantos elementos ele possui
+len(cars)
 # ********** IMPORTANTE ********
 # Além dos operadores matemáticos, existem outros
-# Um deles é o del, que usa para apagar itens da lista.
+# Já vimos o comando del então vamos utilizar ele para o exemplo abaixo:
 # EXEMPLO 14
 aleat = [ 2,4,6] # O nosso 1 é o número 4
 print(aleat[1])
@@ -176,7 +223,9 @@ print(aleat[1]) # Depois de deletado o 1 passa a ser o número 6
 print(2 in aleat) # True
 print( 4 in aleat) # False , já que foi apagado
 
-
+# Além disso tem uma leve dicazinha, se quiser acessar o último item da lista, você deve usar o índice -1, sim , funciona, e sempre vai funcionar
+print(cars[-1])
+# E só vai ter erro quando o vetor for vazio
 
 # FIIIIIIIIIIIIIIIIIMMMMMMMMMMMMMMMMMMMMM
 # EH ISTO

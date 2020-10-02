@@ -1,5 +1,5 @@
 # Python
-## ÍNDICE
+
 #### Algumas coisas sobre python, aproveite.
 Para se ligar no python, você vai ver várias pastas, por onde começar?
 Recomendo que comece com a pasta ALL PYTHON, nela contém a introdução do básico do python separadas por capítulos.

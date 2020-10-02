@@ -43,6 +43,7 @@ créditos: http://pyscience-brasil.wikidot.com/python:python-oq-e-pq
 Agora vem comigo, aprender um pouco de python!
 
 Qualquer dúvida entrar em contato:
+
 email: luvstaeil@gmail.com
 
 ![gif](https://github.com/pizza2u/Python/blob/master/images/tenor.gif)

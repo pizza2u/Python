@@ -77,4 +77,5 @@ print(name.upper()) # upper() vai exibir todas as letras em maiusculo
 print(name.lower()) # lower() vai exibidr tudo em minusculo
 
 
-
+# Para ver um macete simples e básico, acese:
+#      https://github.com/pizza2u/Python/blob/master/ALL_Python/MACETE.jpg

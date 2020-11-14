@@ -68,7 +68,7 @@ seu_nome = input('Qual seu nome bro?!\n') #\n serve para uma quebra de linha
 print(seu_nome)
 # FÁAAcil né
 #-----------
-#BÔNUS:
+#BÔNUS: MÉTODOS DE STRING
 # Aqui vai alguns macetes para configurar strings a partir de métodos.
 # EXEMPLO Bônus 2:
 name= ('programar em Python é massa') 
@@ -76,6 +76,27 @@ print(name.title()) #O método title() exibe cada palavra com  uma letra maiúsc
 print(name.upper()) # upper() vai exibir todas as letras em maiusculo
 print(name.lower()) # lower() vai exibidr tudo em minusculo
 
+# EXEMPLO Bônus: 3
+# Funções strip() e split(), são capazes de limpar uma string e separar uma string em uma lista,respectivamente
+str_suja = "blabla\n"
+print(str_suja.strip()) #Contém apenas o texto, só o que importa
+nome= "Algum Nome"
+print(nome.split("  ")) # Separou a string em uma lista, usando o espaço " ", como delimitador
 
-# Para ver um macete simples e básico, acese:
-#      https://github.com/pizza2u/Python/blob/master/ALL_Python/MACETE.jpg
+nom="a ,b, c, d"
+print(nom.split(" , "))
+# Assim como em upper e lower, as variáveis originais continuam intocadas, a original continua guardada
+# Esses dois métodos são especialmente úteis em exercícios de arquivos, ja que cada linha de um arquivo termina com "\n" e geralmente a gente tem várias informações por linha e queremos separar elas de alguma forma.
+
+# EXEMPLO Bônus: 4
+# Index() e find() esses métodos têm a mesma finalidade, com eles podemos saber a localização da primeira ocorrência de um caractere na string
+# A diferença é que o index() retorna um erro caso o caractere não exista, enquanto find() retorna o -1
+procurando="eu amo meu xbox"
+print(procurando.find("a")) # 3
+print(procurando.index( "a")) # 3
+
+print(procurando.find(" i ")) # -1
+#print(procurando.index( "i"))  # erro
+
+ # O index é mais usado quando se tem certeza que existe caractere na string, com find podemos checar
+

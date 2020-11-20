@@ -230,7 +230,7 @@ print(cars[-1])
 # FIIIIIIIIIIIIIIIIIMMMMMMMMMMMMMMMMMMMMM
 # EH ISTO
 
-# MACETE PARA LISTAS :  https://github.com/pizza2u/Python/blob/master/ALL_Python/macete_LISTA.jpg
+
 
 
 

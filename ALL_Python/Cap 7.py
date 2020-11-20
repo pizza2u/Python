@@ -135,3 +135,32 @@ except (ValueError, ZeroDivisionError):
 # LIÇÃO DE HOJE
 # Sempre confie no finally, pois sempre vai ser executado,e se o programa for apenas o exemplo sem o try,except, ele vai parar imediatamente caso seja 0 o valor inserido
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new.close()

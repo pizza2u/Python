@@ -93,12 +93,12 @@ print(" Área do triângulo 2 é %.2f ."%(triang2) )
 # Mas o oposto também é parecido. Normalmente a gente só consegue ler as variáveis globais de dentro de função, mas não consegue alterar elas:
 # Se liga
 # EXEMPLO 6:
-# batata= 123
-# def func( ):
-  #     print(batata)
-   #   batata=batata*2 # Erro aqui
+ batata= 123
+ def func( ):
+       print(batata)
+      batata=batata*2 # Erro aqui
 
-# func( )
+ func( )
 
 # A  gente consegue ler o valor das variáveis fora das funções, mas não escrever nelas
 # PRA TUDO TEM UM JEITO

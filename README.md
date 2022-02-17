@@ -6,8 +6,7 @@ Recomendo que comece com a pasta ALL PYTHON, nela contém a introdução do bás
 E logo após o estudo, veja exemplos na pasta de exemplos básicos,para fixar.
 
 ### MAS ATENÇÃO:
-#### Alguns conteúdos serão adicionados conforme meus estudos, por isso recomendo não estudar aqui agora, já que uso duas plataformas para estudar, e às vezes vou acrescentando informações em capítulos passados!
-A não ser que vá observando se há atualização em cada capítulo na pasta ALL PYTHON!
+#### Explicações estão na pasta ALL PYTHON!
 
 
 ![cobr](https://github.com/pizza2u/Python/blob/master/images/source.gif)

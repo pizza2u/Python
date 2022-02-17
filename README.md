@@ -5,9 +5,6 @@ Para se ligar no python, você vai ver várias pastas, por onde começar?
 Recomendo que comece com a pasta ALL PYTHON, nela contém a introdução do básico do python separadas por capítulos.
 E logo após o estudo, veja exemplos na pasta de exemplos básicos,para fixar.
 
-### MAS ATENÇÃO:
-#### Explicações estão na pasta ALL PYTHON!
-
 
 ![cobr](https://github.com/pizza2u/Python/blob/master/images/source.gif)
 

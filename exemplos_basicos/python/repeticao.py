@@ -15,7 +15,7 @@ while(tentativa >= rodada):
             print("o chute é maior que o numero")
            
         if chute < numero:
-            print(" o chute é menor")
+            print(" o chute é menor que o numero")
 
     rodada = rodada +1
            

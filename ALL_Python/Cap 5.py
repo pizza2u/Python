@@ -87,11 +87,11 @@ print(" Área do triângulo 2 é %.2f ."%(triang2) )
        morango =10
 
  teste( )
- print(morango) Vai dar erro!
+ print(morango) ## !!!!!!! Vai dar erro!
 # E essa função não tem a palavra return. Não é obrigatório usar, mas a função não retorna nada. Logo não pode fazer variável = função ( )
 
 #Variáveis globais
-# Quando a gente cria variáveis dentro das funções, é inpossível acessar fora né.
+# Quando a gente cria variáveis dentro das funções, é impossível acessar fora né.
 # Mas o oposto também é parecido. Normalmente a gente só consegue ler as variáveis globais de dentro de função, mas não consegue alterar elas:
 # Se liga
 # EXEMPLO 6:
@@ -106,7 +106,8 @@ print(" Área do triângulo 2 é %.2f ."%(triang2) )
 # PRA TUDO TEM UM JEITO
 # Existe uma forma de ter permissão para alterar essas variáveis, e se chama global
 # sim, global
-# Chegue ver curiose
+# Chegue ver 
+
 batata= 123
 def func( ):
        global batata  # pedindo permissao
@@ -136,7 +137,7 @@ print(batata)
 
 # º Aplicação: Em casos clássicos como, em números fatoriais como o 5! = 5*4*3*2*1
 # Okay você não sabe resolver isso de cara, então e se usarmos 5!= 5 x 4!
-# Ué  o problema é fatorial e a resposta tem fatoral EXATO
+# Ué  o problema é fatorial e a resposta tem fatorial: EXATO
 # Mas quanto é 4! ? = 4! = 4 * 3!
 # DE NOVO???????? sim
 # E assim vai até o 1! = 1x0! e 0!=1
@@ -155,7 +156,7 @@ print("5! é igual a %i. " %(fat(5)))
 print(" 2! é igual a %i. "%(fat(2)))
 print(" 21! é igual a %i. " %(fat(21)))
 
-# ALERTA: Às vezes( muitas) a nossa função dá errado, e abaixo segue algumas causas para caso não funcione.
+# ALERTA: Às vezes(muitas) a nossa função dá errado, e abaixo segue algumas causas para caso não funcione.
 
 # LOOP infinito
 # Se a condição do if não for atingida fica em loop

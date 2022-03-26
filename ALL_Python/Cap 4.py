@@ -100,7 +100,7 @@ print(exp) # False
 #EXEMPLO 4:
 if 1==1:
        print("1 é realmente 1") # Satisfez a condição
-       # Espeçamento necessário para o printar o if ( SIM, espaçamento importa >:( )
+       # Espaçamento necessário para o printar o if ( SIM, espaçamento importa >:( )
 if 5==4:
        print("4 não é 5") # AQUI não vai acontecer nada porque 5 não é igual a 4
 # Oia mais um exemplo

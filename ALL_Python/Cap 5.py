@@ -19,7 +19,8 @@ cont = 1
 while cont <= 100:
        print(cont)
        cont += 1
-       # O que que rolou nesse código? Então, nesse código o laço não vai se repetir para sempre, digamos que ele tenha um critério de parada, e esse critério é 100, a cada vez que o código se repetir , a variável cont vai ter um valor diferente
+       # O que que rolou nesse código? Então, nesse código o laço não vai se repetir para sempre, digamos que ele tenha um critério de parada, e esse critério é 100,
+  # a cada vez que o código se repetir , a variável cont vai ter um valor diferente
        # ou seja para cada cont rodado, o valor vai receber +1.
        # Mas quando o valor de cont for maior que 100 o programa vai parar
 

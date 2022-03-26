@@ -10,8 +10,8 @@
        #código a ser executado
        #enquanto for verdade
 #EXEMPLO 1: (loop infinito)
-# while 1<5:
-       #print("é mermo é")
+ while 1<5:
+       print("é mermo é")
 
        # Se você executar esse código, ele vai entrar em loop infinito, já que 1 é menor que 5
 #MAAAS se fizermos

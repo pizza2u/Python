@@ -39,6 +39,7 @@ for isso in range(1,101):
 # Além de que, não é obrigatorio usar a variavel da estrutura
 for aquilo in range(5):
        print("Oi") # Como eu só usei um valor, ele vai de 0 até o valor (x)
+       # Printando Oi em 5 vezes
 
 # Laço For com string
 # As strings também funcionam no laço for

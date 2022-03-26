@@ -38,11 +38,11 @@ print(Sherlock_e_Enola) # False
 # OPERADOR "OR"
 # Or já diz tudo né, OU
 # Vamos ser breve e fazer a T.V para ser mais prático
-# Sherlock          Enola           S&E
+# Sherlock          Enola               S&E
 # Sim                 Sim               Sim
 # Sim                 Não               Sim
 # Não                 Sim               Sim         
-# Não                Não                Não
+# Não                 Não               Não
 
 #Aplicando no python
 # EXEMPLO 2:
@@ -55,7 +55,7 @@ print(Sherlock_e_Mycroft) # Vai imprimir True
 # Se tivessemos a pergunta " É verdade que sherlock NÃO está na aula? A resposta é não, pois ele ta na aula
 # Ou seja o uso do não faz com que a gente inverta a resposta
 # SE LIGA NA T.V
-# Sherlock         Não Sherlock
+# Sherlock            Não Sherlock
 #  Sim                     Não
 #  Não                     Sim
 
@@ -71,15 +71,15 @@ print(nao_Sherlock) # False
 # Com o uso do parênteses você pode indentificar qual condição vai  ser verificada primeiro
 # Segue o fio
 #EXEMPLO 4:
-# Sherlock           Enola           Mycroft              not((Mycroft and Enola) or Sherlock)
-#  F                      F                    F                                        T
-#  F                      F                   T                                        T
-#  F                      T                    F                                       T
-#  F                      T                    T                                        F
-#  T                       F                   F                                       F
-#  T                       F                   T                                      F
-#  T                        T                  F                                     F
-#  T                       T                 T                                      F
+# Sherlock              Enola           Mycroft              not((Mycroft and Enola) or Sherlock)
+#  F                      F                F                                   T
+#  F                      F                T                                   T
+#  F                      T                F                                   T
+#  F                      T                T                                   F
+#  T                      F                F                                   F
+#  T                      F                T                                   F
+#  T                      T                F                                   F
+#  T                      T               T                                    F
 
 Sherlock2= False
 Enola1 = True

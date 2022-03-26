@@ -5,10 +5,10 @@
 # TÓPICO 1 - EXPRESSÕES LÓGICAS
 # A gente já falou sobre expressões relacionais em booleanos, e sobre operadores comparativos e resultados.
 # *** Para revisar ***
-# OPERAÇÃO      RESULTADO        OPERAÇÃO      RESULTADO
-#      3>1                    True                        6<1.0                  False
-# "Teste"=="teste"      False                    3.14!=3                   True
-#    5>= 5.0                 True                      "Z"<="a"                True
+# OPERAÇÃO                RESULTADO                OPERAÇÃO           RESULTADO
+#      3>1                    True                  6<1.0               False
+# "Teste"=="teste"            False                3.14!=3              True
+#    5>= 5.0                 True                 "Z"<="a"              True
 
 # Para primeiro exemplo no próximo passo vamos usar três nomes:
 # Sherlock, Enola, e Mycroft

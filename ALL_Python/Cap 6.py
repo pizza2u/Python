@@ -40,7 +40,7 @@ print(math.sqrt(49))
 # Logaritmos com math
 # O módulo math também pode ser utilizado na resoluçao de logaritmos (ln)
 print(math.log(1))
-#print(math.log(0)) # ERRO
+print(math.log(0)) # ERRO
 # Não da pra calculas log de número negativo e 0
 # Apenas reais (infinitos não são reais)
 
@@ -49,7 +49,7 @@ print(math.log(100,10))
 
 #---------------------------------------
 #Usando constante de euler
-#math.exp(x) retorna e^x
+# math.exp(x) retorna e^x
 print(math.exp(2))
 print(math.exp(1))
 

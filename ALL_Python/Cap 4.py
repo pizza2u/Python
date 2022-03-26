@@ -20,11 +20,11 @@
 # Aí alguém pergunta, "Sherlock e Enola estão na aula?" Sua resposta seria sim, porque os dois estão na aula, MAS se Sherlock fosse no banheiro num momento e Mycroft tomasse o lugar dele, a resposta seria diferente
 # Mas aí há a pergunta novamente, e a resposta é não, apenas Elona está, para que a resposta seja sim, os dois tem que estar na aula.
 # E AÍ ENTRA A LÓGICA VISTA EM CIRCUITOS LÓGICOS
-# Sherlock          Enola           S&E
+# Sherlock          Enola              S & E
 # Sim                 Sim               Sim
 # Sim                 Não               Não
 # Não                 Sim               Não         NOSSA FAMOSA T.V(TABELA VERDADE)
-# Não                Não                Não
+# Não                 Não               Não
 
 # E é assim que o operador and funciona
 Sherlock=False
@@ -38,7 +38,7 @@ print(Sherlock_e_Enola) # False
 # OPERADOR "OR"
 # Or já diz tudo né, OU
 # Vamos ser breve e fazer a T.V para ser mais prático
-# Sherlock          Enola               S&E
+# Sherlock          Enola              S Or E
 # Sim                 Sim               Sim
 # Sim                 Não               Sim
 # Não                 Sim               Sim         
@@ -79,7 +79,7 @@ print(nao_Sherlock) # False
 #  T                      F                F                                   F
 #  T                      F                T                                   F
 #  T                      T                F                                   F
-#  T                      T               T                                    F
+#  T                      T                T                                   F
 
 Sherlock2= False
 Enola1 = True

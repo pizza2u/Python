@@ -4,4 +4,4 @@ print(" Olá amigoa {:<20}!".format(nome))# espaçamento de 20 caracters para es
 print(" Olá amigoa {} !".format(nome)) #normal
 print(" Olá amigoa {:^20}!".format(nome)) #centralizado
 print(" Olá amigoa {:=^20}!".format(nome)) #nome + sinal de = para outros caracters
-print(" Olá amigoa {:2^20}!".format(nome)) # da mesma forma anterior so mudou o sinal
+print(" Olá amigoa {:0^20}!".format(nome)) # da mesma forma anterior so mudou o sinal para 0

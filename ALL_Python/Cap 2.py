@@ -114,7 +114,7 @@ print(jovem) # Retorna True se estiver entre essas idades
 
 #EXEMPLO 12:
 outra_idade=input("Diga ai boy sua idade:\n")
-print(outra_idade * 3 + ", opa deu errado ein") # O resultado dá um chernobyl, caso você tenha testado, vou dar meu exemplo: minha idade é 18, 
+print(outra_idade * 3 + " , opa deu errado ein") # O resultado dá um chernobyl, caso você tenha testado, vou dar meu exemplo: minha idade é 18, 
 #e no resultado do print vai aparecer 181818
 #A variável outra_idade vai receber o valor digitado mas em forma de string.E então o texto é triplicado.
 # Por essa nem o futuro esperava

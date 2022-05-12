@@ -34,7 +34,8 @@ print(b)
 #__________________________________________________________________________________
 # Problemas de números reais no computador
 # Números float na computação são aproximações muito boas, nunca exatos.
-#A precisão sempre vai ser de aproximadamente 16 casas decimais(precisão dupla). As 16 primeiras casa decimais de um número real vão estar sempre certas, o valor após isso é duvidoso.
+#A precisão sempre vai ser de aproximadamente 16 casas decimais(precisão dupla). As 16 primeiras casa decimais de um número real vão estar sempre certas,
+#o valor após isso é duvidoso.
 # É comum ter bugs no programa por conta das imprecisões do tipo float.
 
 #----------------------------------------------------------------------------------------------------------------------------------
@@ -113,7 +114,8 @@ print(jovem) # Retorna True se estiver entre essas idades
 
 #EXEMPLO 12:
 outra_idade=input("Diga ai boy sua idade:\n")
-print(outra_idade * 3 + ", opa deu errado ein") # O resultado dá um chernobyl, caso você tenha testado, vou dar meu exemplo: minha idade é 18, e no resultado do print vai aparecer 181818
+print(outra_idade * 3 + ", opa deu errado ein") # O resultado dá um chernobyl, caso você tenha testado, vou dar meu exemplo: minha idade é 18, 
+#e no resultado do print vai aparecer 181818
 #A variável outra_idade vai receber o valor digitado mas em forma de string.E então o texto é triplicado.
 # Por essa nem o futuro esperava
 # Old que você esperava que fosse fazer uma operação matématica né
@@ -156,7 +158,8 @@ print("Olá," + full.title())
 # EXEMPLO 14:
 print("\n")
 print(str(int("45") * float("2")) + str(3.14))
-# Vou explicar o que diacho aconteceu aí: Convertemos o texto "45"( tudo entre aspas é considerado string(texto)), ai convertemos "2" para número real,e depois o resultado da multiplicação 45 pelo real 2.0 para texto de novo, e uniu com "3.14"
+# Vou explicar o que diacho aconteceu aí: Convertemos o texto "45"( tudo entre aspas é considerado string(texto)),
+# ai convertemos "2" para número real,e depois o resultado da multiplicação 45 pelo real 2.0 para texto de novo, e uniu com "3.14"
 # Parece chernobyl
 # Que vai printar: 90.03.14
 # É a junção de "90.0" com "3.14"

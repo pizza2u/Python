@@ -28,6 +28,7 @@ print(2*3**2-4*3+2) #resultado=8
 # Caso f(5)
 print(2*5**2-4*3+2) #resultado=40
 
+
 #-------------------------------------------------------------------------------------------------
 # TÓPICO 2- VARIÁVEIS
 # Variáveis são letras ou nomes que vão receber um objeto.
@@ -58,6 +59,10 @@ first_n= ("Fulano")
 last_n=("Silva")
 full= first_n+ " " + last_n
 print(full) # Que vai printar Fulano Silva
+
+# Bônus: Uso do f'strings
+# Serve para aprimoração do código realizado as operações de forma mais eficientes
+print(f'Nome: {first_n+" "+last_n} ')
 #----------------------------------------------------------------------------------------
 # TÓPICO 3- ENTRADA DE DADOS
 # Função input - passa uma pergunta e o comando retorna a resposta do usuário
@@ -99,4 +104,3 @@ print(procurando.find(" i ")) # -1
 #print(procurando.index( "i"))  # erro
 
  # O index é mais usado quando se tem certeza que existe caractere na string, com find podemos checar
-

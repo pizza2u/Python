@@ -8,7 +8,7 @@ E logo após o estudo, veja exemplos na pasta de exemplos básicos, para fixar.
 
 ![cobr](https://github.com/pizza2u/Python/blob/master/images/source.gif)
 
-## Antes de mais nada, irei colocar uma introdução sobre o python logo abaixo: 
+## Antes de mais nada, vamos fazer uma breve leitura sobre o famoso Python: 
 ### Introdução
 #### O que é python?
 Python é uma linguagem de programação criada por Guido van Rossum em 1991. Os objetivos do projeto da linguagem eram: produtividade e legibilidade. Em outras palavras, Python é uma linguagem que foi criada para produzir código bom e fácil de manter de maneira rápida. Entre as características da linguagem que ressaltam esses objetivos estão:

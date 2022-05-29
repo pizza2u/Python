@@ -70,12 +70,39 @@ print(lista_new[2])
 # Mas repara que tanto nas listas quanto nas tuplas, a gente precisa saber o índice de cada item pra poder acessar ele. Mas em alguns casos
 
 # USANDO DICIONÁRIOS EM PYTHON
+# DICIONÁRIOS
+# Ou também chamados de Dicts são coleções de itens (tipo listas) armazenados de forma
+# não ordenada e que contém uma chave e valor nos seus elementos
+# - uma chave que vai indexar determinado elemento
+# - um valor que tem... um valor, mas diferentemente de listas, os índices podem ser qualquer tipo de valor imutável, como inteiros, 
+# floats,strings,booleans e até tuplas.
+
+# A sua sintaxe é básica {'chave': 'valor'}. Essas {} delimita o dicionário e chave separadas
+
+dicion = {'chave': 'valor'}
+print(type(dicio))
+# Obviamente estamos conferindo o tipo da função que está na variável, do tipo dict
+
+# Há 6 maneiras de fazer um mesmo dicionário
+
+dicio_2 = {'primeiro': 1,'segundo': 2, 'terceiro': 3}
+# também é possível utilizar a função dict do próprio Python
+dicio = dict(primeiro=1, segundo=2, terceiro=3)
+# utilizando a função zip para concatenar a chave:valor em um unico elemento dict
+dicio_3= dict(zio(['primeiro','segundo', 'terceiro'],[1,2,3]))
+# usando uma lista de tuplas com itens simbolizando chave e valor em um objeto dict
+dicio_4 = dict([('primeiro',1),('segundo',2),( 'terceiro',3)])
+# Por dict comprehensions também
+dicio_5 = {name: idx + 1 for idx, name in enumerate(('primeiro', 'segundo', 'terceiro'))}
+# e transformando uma varíavel do tipo dicionário em dicionário 
+dicio_6 = dict({'primeiro': 1, 'segundo':  2, 'terceiro': 3})
+
 
 # Dicionários em python são, assim como listas e tuplas, estruturas de agrupamento de dados, a principal característica é a personalização dos índices
 idade= {"Holand": 16 , "Oxe": 12 , " Fulane": 23}
 print(idade["Oxe"])
 
-# Mas diferentemente de listas, os índices podem ser qualquer tipo de valor imutável, como inteiros, floats,strings,booleans e até tuplas.
+
 pessoa={
     "Nome": "Liniker",
     "Profissão": " Cantora",

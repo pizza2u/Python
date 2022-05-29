@@ -146,36 +146,31 @@ print("Sua idade de novo é "+str(idade2))
 # No primeiro elif a gente ja sabe que a idade não e menor que 18, porque caso contrário teria parado no primeiro if, e no segundo a idade não é igual a 18,
 #porque se não teria parado no primeiro e BLA BLA BLA ETC
 
+# Vamos usar um exemplo de if e elif com operador or
+a= 55;
+b=155;
+c=1050;
 
+if a>b or a>c:
+    print("A variável 'a' é maior que todos")
+elif a<b or b<c:
+    print("A variável 'b' é maior que 'a' e menor que 'c'")
 
+# Mais um exemplo de cadeias de estruturas condicionais
+var1=0
+var2= int(input("Diga aí boy um número diga: "))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+if var2>var1:
+    print('Número maior que zero')
+    if var2==1:
+        print('O número foi 1')
+    elif var2==2:
+        print('O número foi 2')
+    elif var2==3:
+        print('O número foi 3')
+    else:
+        print('O número é maior que 3')
+else:
+    print("Número inválido")
 
 

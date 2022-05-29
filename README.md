@@ -37,7 +37,7 @@ Python é, além disso, uma linguagem de propósito geral. Muitas vezes, é nece
 
 Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade entre a comunidade científica. É uma linguagem simples que dá conta do recado e não fica entre o cientista e a resolução do seu problema. Essa frase provavelmente resume todos os motivos necessários para sua utilização.
 
-créditos: http://pyscience-brasil.wikidot.com/python:python-oq-e-pq
+[Créditos](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
 
 Alguns interpretadores de Python: [clique aqui](https://github.com/pizza2u/Python/blob/master/interponline.txt)
 

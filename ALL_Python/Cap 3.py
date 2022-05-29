@@ -1,7 +1,7 @@
 #CAPÍTULO 3 - TIPOS DE DADOS II
 #=======================================================
 # TÓPICO 1- STRINGS
-# A patroa chegou!
+
 # Okay eu sei, já mostrei sobre o \n e \t
 # mas vou mostrar algo new
 # A pergunta seria, podemos escrever aspas dentro da string, sendo que a string é iniciado com aspas

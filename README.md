@@ -39,6 +39,7 @@ Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade
 
 créditos: http://pyscience-brasil.wikidot.com/python:python-oq-e-pq
 
+Alguns interpretadores de Python: [clique aqui](https://github.com/pizza2u/Python/blob/master/interponline.txt)
 Agora vem comigo, aprender um pouco de python!
 
 Qualquer dúvida entrar em contato:

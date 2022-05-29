@@ -4,8 +4,8 @@
 
 # Okay eu sei, já mostrei sobre o \n e \t
 # mas vou mostrar algo new
-# A pergunta seria, podemos escrever aspas dentro da string, sendo que a string é iniciado com aspas
-# valha mi deus
+# A pergunta seria, podemos escrever aspas dentro da string, sendo que a string é iniciado com aspas?
+
 # Mas ai que ta, é so usar a contra barra também
 # EXEMPLO 1:
 oxe = 'e ai boy\nbora \' LA\''  

@@ -17,7 +17,8 @@
 # O operador "and" significa "e", e diz quando dois valores booleanos são verdadeiros.
 
 #EXEMPLO 1: Imagine que Sherlock e Enola estão na aula de cálculo e tu é o prof
-# Aí alguém pergunta, "Sherlock e Enola estão na aula?" Sua resposta seria sim, porque os dois estão na aula, MAS se Sherlock fosse no banheiro num momento e Mycroft tomasse o lugar dele, a resposta seria diferente
+# Aí alguém pergunta, "Sherlock e Enola estão na aula?" Sua resposta seria sim, porque os dois estão na aula, MAS se Sherlock fosse no banheiro num momento e 
+# Mycroft tomasse o lugar dele, a resposta seria diferente
 # Mas aí há a pergunta novamente, e a resposta é não, apenas Elona está, para que a resposta seja sim, os dois tem que estar na aula.
 # E AÍ ENTRA A LÓGICA VISTA EM CIRCUITOS LÓGICOS
 # Sherlock          Enola              S & E
@@ -142,7 +143,8 @@ print("Sua idade de novo é "+str(idade2))
 # Por exemplo se no código anterior a gente tivesse outro elif sendo
 # elif idade ==19:
         # print("Recém maior de idade")
-# No primeiro elif a gente ja sabe que a idade não e menor que 18, porque caso contrário teria parado no primeiro if, e no segundo a idade não é igual a 18, porque se não teria parado no primeiro e BLA BLA BLA ETC
+# No primeiro elif a gente ja sabe que a idade não e menor que 18, porque caso contrário teria parado no primeiro if, e no segundo a idade não é igual a 18,
+#porque se não teria parado no primeiro e BLA BLA BLA ETC
 
 
 

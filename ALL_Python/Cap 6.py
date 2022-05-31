@@ -123,7 +123,7 @@ for i in range(2000000):
 
 tempoD = time.time() - tempo
 
-print(" O programa levo %.2fs para ser executado."%tempoD)
+print(" O programa levou %.2fs para ser executado."%tempoD)
 
 # Esse exemplo acima, calcula o quadrado de todos os números entre 0 e 2000000,
 # Usando time.time()

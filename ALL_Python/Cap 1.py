@@ -1,7 +1,7 @@
 #COMANDOS BÁSICOS - CAPÍTULO 1
 #====================================================
 # TÓPICO 1 - EXPRESSÕES E SAÍDA DE DADOS
-~~~python
+
 # Soma: N + Nx                     N= Número qualquer
 # Subtração: N- Nx                 Nx= Outro número
 # Multiplicação: N * Nx
@@ -106,4 +106,4 @@ print(procurando.find(" i ")) # -1
 
  # O index é mais usado quando se tem certeza que existe caractere na string, com find podemos checar
  
- ~~~
+

@@ -7,7 +7,7 @@ E logo após o estudo, veja exemplos na pasta de [exemplos básicos](https://git
 
 - Para conhecer o [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) feito com python;
 
-- Para conhecer melhor algumas [bibliotecas](https://github.com/pizza2u/Python/tree/master/Bibliotecas);
+$\\color{red}{\\text{Para conhecer melhor algumas}}$  [bibliotecas](https://github.com/pizza2u/Python/tree/master/Bibliotecas);
 
 ![cobr](https://github.com/pizza2u/Python/blob/master/images/source.gif)
 

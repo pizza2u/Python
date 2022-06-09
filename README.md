@@ -6,7 +6,7 @@ Recomendo que comece com a pasta [ALL PYTHON](https://github.com/pizza2u/Python/
 E logo após o estudo, veja exemplos na pasta de [exemplos básicos](https://github.com/pizza2u/Python/tree/master/exemplos_basicos/python), para fixar.
 
 
-$\\color{green}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) feito com python;
+$\\color{orange}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) $\\color{orange}{\\text{feito com python;}}$ 
 
 $\\color{yellow}{\\text{Para conhecer melhor algumas}}$  [bibliotecas](https://github.com/pizza2u/Python/tree/master/Bibliotecas);
 

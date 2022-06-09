@@ -4,12 +4,12 @@
 Para se ligar no python, você vai ver várias pastas, por onde começar?
 Recomendo que comece com a pasta [ALL PYTHON](https://github.com/pizza2u/Python/tree/master/ALL_Python), nela contém a introdução do básico do python separadas por capítulos. 
 E logo após o estudo, veja exemplos na pasta de [exemplos básicos](https://github.com/pizza2u/Python/tree/master/exemplos_basicos/python), para fixar.
-body {
-  font-size: 16px;
-  $\\color{green}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) feito com python;
+
+
+$\\color{green}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) feito com python;
 
 $\\color{yellow}{\\text{Para conhecer melhor algumas}}$  [bibliotecas](https://github.com/pizza2u/Python/tree/master/Bibliotecas);
-}
+
 
 
 ![cobr](https://github.com/pizza2u/Python/blob/master/images/source.gif)

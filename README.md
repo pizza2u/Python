@@ -45,5 +45,5 @@ Agora vem comigo, aprender um pouco de python!
 Qualquer dúvida entrar em contato:
 
 email: luvstaeil@gmail.com
-
-![gif](https://github.com/pizza2u/Python/blob/master/images/tenor.gif)
+<img src="images/tenor.gif" align="center" width="250">
+!

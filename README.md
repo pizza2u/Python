@@ -45,5 +45,9 @@ Agora vem comigo, aprender um pouco de python!
 Qualquer dúvida entrar em contato:
 
 email: luvstaeil@gmail.com
+
+
+
+
 <img src="images/tenor.gif" align="center" width="350">
 

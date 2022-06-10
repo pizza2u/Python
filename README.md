@@ -1,5 +1,5 @@
 # Python
-
+<img src="images/source.gif" align="right" width="300">
 #### Algumas coisas sobre python, aproveite.
 Para se ligar no python, você vai ver várias pastas, por onde começar?
 Recomendo que comece com a pasta [ALL PYTHON](https://github.com/pizza2u/Python/tree/master/ALL_Python), nela contém a introdução do básico do python separadas por capítulos. 
@@ -12,7 +12,6 @@ $\\color{yellow}{\\text{Para conhecer melhor algumas}}$  [bibliotecas](https://g
 
 
 
-![cobr](https://github.com/pizza2u/Python/blob/master/images/source.gif)
 
 ## Antes de mais nada, vamos fazer uma breve leitura sobre o famoso Python: 
 ### Introdução

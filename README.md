@@ -1,4 +1,4 @@
-<img src="images/source.gif" align="right" width="50">
+<img src="images/source.gif" align="right" width="250">
 
 # Python
 

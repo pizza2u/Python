@@ -1,6 +1,6 @@
 <img src="images/source.gif" align="right" width="300">
 
-<txt scr="PYTHON" align ="center" width "400">
+<h1 "Python" align="center">Material Bread</h1>
 
 #### Algumas coisas sobre python, aproveite.
 Para se ligar no python, você vai ver várias pastas, por onde começar?

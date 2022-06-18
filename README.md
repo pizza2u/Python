@@ -51,5 +51,7 @@ email: luvstaeil@gmail.com
 
 
 
-<img src="images/tenor.gif" align="center" width="500">
+<p align="center">
+  <img src="images/tenor.gif" />
+</p>
 

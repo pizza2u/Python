@@ -263,6 +263,5 @@ carro_usado.read_odometer()
 # Esse método increment_odometer() aceita uma quantidade de quilometros e soma esse valor a self.odometer_reading.
 # É criado e definido o carro_usado, e o hodômetro está com valor de 26 KM, chamado de update_odometer() e passando-lhe o valor de 26KM
 # Depois é chamado o increment_odometer() e passado um valor de 50 KM, para somar com o que já tinha de 26 KM. Resultando em 76 KM.
-#
-#
-#
+
+

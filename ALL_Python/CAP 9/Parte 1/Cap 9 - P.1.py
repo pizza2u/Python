@@ -257,7 +257,7 @@ print(carro_usado.get_decriptive_name())
 carro_usado.update_odometer(26)
 carro_usado.read_odometer()
 
-carro_usado.increment_odometer(22)
+carro_usado.increment_odometer(50)
 carro_usado.read_odometer()
 
 # Esse método increment_odometer() aceita uma quantidade de quilometros e soma esse valor a self.odometer_reading.

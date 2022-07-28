@@ -1,8 +1,12 @@
 interpretador online
 Veja alguns exemplos de interpretadores online:
-[Online GDB](https://www.onlinegdb.com/online_python_interpreter)
+
 https://www.onlinegdb.com/online_python_interpreter
+
 https://repl.it/languages/python3
+
 https://www.python.org/shell/
+
 https://www.pythonanywhere.com/try-ipython/
+
 https://py3.codeskulptor.org/

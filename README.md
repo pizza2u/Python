@@ -40,11 +40,20 @@ Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade
 
 [Créditos](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
 
- [Alguns interpretadores de Python](https://github.com/pizza2u/Python/blob/master/interponline.txt)
+ Alguns interpretadores de Python:
+[OnlineGDB](https://www.onlinegdb.com/online_python_interpreter)
 
-Agora vem comigo, aprender um pouco de python!
+[Repl.it](https://repl.it/languages/python3)
 
-Qualquer dúvida entrar em contato:
+[Python](https://www.python.org/shell/)
+
+[Python Anywhere(anacoda)](https://www.pythonanywhere.com/try-ipython/)
+
+[CodeSkulptor3](https://py3.codeskulptor.org/)
+
+
+
+Contato:
 
 email: luvstaeil@gmail.com
 

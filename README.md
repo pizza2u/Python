@@ -2,12 +2,12 @@
 
 <h1 align="center"> Python </h1>
 
-#### Algumas coisas sobre python, aproveite.
-Para se ligar no python, você vai ver várias pastas, por onde começar?
+#### Algumas coisas sobre python.
+
 
 Recomendo que comece com a pasta [ALL PYTHON](https://github.com/pizza2u/Python/tree/master/ALL_Python),
-nela contém a introdução do básico do python separadas por capítulos. 
-E logo após o estudo, veja exemplos na pasta de [exemplos básicos](https://github.com/pizza2u/Python/tree/master/exemplos_basicos/python), para fixar.
+nela contém a introdução do básico do python separadas por capítulos e em resumo. 
+Há a pasta [exemplos básicos](https://github.com/pizza2u/Python/tree/master/exemplos_basicos/python), para fixar.
 
 
 $\\color{orange}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) $\\color{orange}{\\text{feito com python;}}$ 

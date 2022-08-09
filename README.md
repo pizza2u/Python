@@ -38,9 +38,10 @@ Por fim, e não menos importante, Python é uma linguagem livre e multiplataform
 
 Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade entre a comunidade científica. É uma linguagem simples que dá conta do recado e não fica entre o cientista e a resolução do seu problema. Essa frase provavelmente resume todos os motivos necessários para sua utilização.
 
-[Créditos](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
+- [Créditos](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
 
  Alguns interpretadores de Python:
+ 
 [OnlineGDB](https://www.onlinegdb.com/online_python_interpreter)
 
 [Repl.it](https://repl.it/languages/python3)

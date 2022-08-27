@@ -54,13 +54,6 @@ Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade
 
 
 
-Contato:
-
-email: luvstaeil@gmail.com
-
-
-
-
 <p align="center">
   <img src="images/tenor.gif" />
 </p>

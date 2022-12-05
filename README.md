@@ -10,7 +10,7 @@ nela contém a introdução do básico do python separadas por capítulos e em r
 Há a pasta [exemplos básicos](https://github.com/pizza2u/Python/tree/master/exemplos_basicos/python), para fixar.
 
 
-$\\color{red}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) $\\color{orange}{\\text{feito com python;}}$ 
+$\\color{red}{\\text{Para conhecer o}}$   [jogo da cobrinha](https://github.com/pizza2u/Python/blob/master/jogodacobrinha.py/cobrinhafinal.py) $\\color{red}{\\text{feito com python;}}$ 
 
 $\\color{red}{\\text{Para conhecer melhor algumas}}$  [bibliotecas](https://github.com/pizza2u/Python/tree/master/Bibliotecas);
 

@@ -52,7 +52,7 @@ Por esses e ainda outros motivos, Python tem conquistado uma grande popularidade
 
 [CodeSkulptor3](https://py3.codeskulptor.org/)
 
-[Google Colab](https://colab.research.google.com/)
+[Google Colab (Jupyter Notebook)](https://colab.research.google.com/)
 
 
 <p align="center">

@@ -3,7 +3,7 @@
 
 # Guia de Conteúdo 
 
- [Créditos](https://github.com/WoMakersCode/back-end-python/tree/main/orientacao-a-objetos)
+ [Content by womakers code](https://github.com/WoMakersCode/back-end-python/tree/main/orientacao-a-objetos)
 
 |                 Módulo           | Aula |                        Tópicos                               |
 | -------------------------------- | ---- | ------------------------------------------------------------ |

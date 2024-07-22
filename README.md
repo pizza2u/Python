@@ -1,9 +1,7 @@
 
-
-<h1 align="center"> Python </h1> 
-
 <img src="images/source.gif" align="left" width="300">
 
+<h1 align="center"> Python </h1> 
 
 
 #### Algumas coisas sobre python.

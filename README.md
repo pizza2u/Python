@@ -1,7 +1,6 @@
 <img src="images/source.gif" align="right" width="300">
 
-
-## Python
+<h1 align="center"> Python </h1> 
 #### Algumas coisas sobre python.
 
 
